@@ -10,4 +10,4 @@ To run this program run the following from the project folder.
 
 3. $ python \<name of the file you wish to run>.
  
-for example: python data.py
+for example: python data.py (this will fetch as sample datas and print it on the terminal)
