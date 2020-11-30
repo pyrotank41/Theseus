@@ -11,4 +11,4 @@ alpaca-trade-api = "*"
 numpy = "==1.18.1"
 
 [requires]
-python_version = "3.8"
+python_version = "3.7"
